@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">MyRaspisanie</string>
+    <string name="title_activity_eight">EightActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="button11">11</string>
+    <string name="button10">10</string>
+    <string name="button9">9</string>
+    <string name="button8">8</string>
+    <string name="button7">7</string>
+    <string name="button6">6</string>
+    <string name="title_activity_main11">Main11Activity</string>
+    <string name="tab_text_1">ПН</string>
+    <string name="tab_text_2">ВТ</string>
+    <string name="tab_text_3">СР</string>
+    <string name="tab_text_4">ЧТ</string>
+    <string name="tab_text_5">ПТ</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="uroki11_pn">
+        <item>физра</item>
+        <item>математика</item>
+        <item>биология</item>
+        <item>музыка</item>
+    </string-array>
+
+    <string-array name="uroki11_vt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki11_sr">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki11_ch">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki11_pt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki10_pn">
+        <item>пение</item>
+        <item>математика</item>
+        <item>биология</item>
+        <item>музыка</item>
+    </string-array>
+
+    <string-array name="uroki10_vt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki10_sr">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki10_ch">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki10_pt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki9_pn">
+        <item>пение</item>
+        <item>математика</item>
+        <item>биология</item>
+        <item>музыка</item>
+    </string-array>
+
+    <string-array name="uroki9_vt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki9_sr">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki9_ch">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki9_pt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+
+    <string-array name="uroki8_pn">
+        <item>пение</item>
+        <item>математика</item>
+        <item>биология</item>
+        <item>музыка</item>
+    </string-array>
+
+    <string-array name="uroki8_vt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki8_sr">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki8_ch">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki8_pt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+    <string-array name="uroki7_pn">
+        <item>пение</item>
+        <item>математика</item>
+        <item>биология</item>
+        <item>музыка</item>
+    </string-array>
+
+    <string-array name="uroki7_vt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki7_sr">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki7_ch">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki7_pt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki6_pn">
+        <item>пение</item>
+        <item>математика</item>
+        <item>биология</item>
+        <item>музыка</item>
+    </string-array>
+
+    <string-array name="uroki6_vt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki6_sr">
+        <item>химия</item>
+        <item>химия</item>
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki6_ch">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+    <string-array name="uroki6_pt">
+        <item>физика</item>
+        <item>химия</item>
+        <item>биология</item>
+        <item>математика</item>
+    </string-array>
+
+
+
+
+
+</resources>
